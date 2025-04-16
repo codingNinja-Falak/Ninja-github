@@ -1,1 +1,2 @@
-console.log("User1 posted on the app");
+let post = "user2 is posting";
+console.log(post);
