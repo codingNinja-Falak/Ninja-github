@@ -1,1 +1,0 @@
-console.log("New user added a post");
